@@ -1,6 +1,6 @@
 ### Visão Geral do Capítulo 🎯
 
-Este capítulo inicial tem como objetivos esclarecer a diferença entre a disciplina de "Lógica de Programação e Algoritmos" e o estudo aprofundado de "Estruturas de Dados e Algoritmos", além de nivelar conhecimentos essenciais sobre objetos, funções, memória e leitura de JSON.
+Este capítulo inicial tem como objetivos esclarecer a diferença entre a disciplina de "Lógica de Programação e Algoritmos" e o estudo aprofundado de "Estruturas de Dados e Algoritmos", além de nivelar conhecimentos essenciais sobre objetos, funções, memória e leitura de JSON com Python e Java.
 
 ### Estruturas de Dados vs. Lógica de Programação 🤔 vs. 💻
 
