@@ -52,3 +52,7 @@ A liberação da memória utilizada ocorre de duas formas principais, um fundame
 ### Foco do Curso 💡
 
 Este curso foca em **técnicas de elaboração de soluções**, não em uma linguagem específica. O importante é entender o raciocínio e as estruturas para ser capaz de implementá-los em qualquer linguagem de programação. Um bom programador deve ser capaz de "traduzir" soluções entre diferentes linguagens, utilizando ferramentas como Google e Stack Overflow quando necessário.
+
+---
+
+### [ricardotecpro.github.io](https://ricardotecpro.github.io/)
