@@ -2,6 +2,8 @@
 
 Este capítulo inicial tem como objetivos esclarecer a diferença entre a disciplina de "Lógica de Programação e Algoritmos" e o estudo aprofundado de "Estruturas de Dados e Algoritmos", além de nivelar conhecimentos essenciais sobre objetos, funções, memória e leitura de JSON com Python e Java.
 
+---
+
 ### Estruturas de Dados vs. Lógica de Programação 🤔 vs. 💻
 
 Embora "tudo" seja algoritmo, existe uma distinção importante entre o que se aprende inicialmente e o foco deste curso:
@@ -52,6 +54,12 @@ A liberação da memória utilizada ocorre de duas formas principais, um fundame
 ### Foco do Curso 💡
 
 Este curso foca em **técnicas de elaboração de soluções**, não em uma linguagem específica. O importante é entender o raciocínio e as estruturas para ser capaz de implementá-los em qualquer linguagem de programação. Um bom programador deve ser capaz de "traduzir" soluções entre diferentes linguagens, utilizando ferramentas como Google e Stack Overflow quando necessário.
+
+
+---
+
+Computação paralela
+CUDA - Transformada Rápida de Fourier.
 
 ---
 
